@@ -429,7 +429,7 @@ body {
 /* Responsividade */
 @media (max-width: 1024px) {
     .card {
-        width: calc(50% - 30px); /* 2 cards por linha em tablets */
+        width: calc(50% - 30px); 
     }
 }
 
@@ -469,7 +469,7 @@ body {
     }
     
     .card {
-        width: 100%; /* 1 card por linha em mobile */
+        width: 100%; 
         max-width: 400px;
         height: 280px;
     }
